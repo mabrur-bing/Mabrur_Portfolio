@@ -11,5 +11,6 @@ My projects in computational physics
 # [Equilibrium And Non-equilibrium Monte Carlo to Simulate Super-Ionic Conductors](https://github.com/mabrur-bing/Li-ion-Hopping)
 How is the ionic conductivity of a solid-state electrolyte material affected by its thermal properties? To answer this, we apply Markov Chain Monte Carlo (MHMC) for thermal sampling and Kinetic Monte Carlo (KMC) for stochastic sampling of ion conduction dynamics.
   - Replica Exchange Monte Carlo for Calculating Thermodynamic Quantities
-  - Kinetic Monte Carlo for Stochastic Simulation of Time Evolution 
+  - Kinetic Monte Carlo for Stochastic Simulation of Time Evolution
+  - Lattice Coulomb Gas Model 
   
