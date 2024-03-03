@@ -7,7 +7,6 @@ Classical shadows are approximate descriptions of quantum states obtained by few
   - feature learning and phases identification
   - Multidimensional Scaling
 <img src="https://github.com/mabrur-bing/mabrur.github.io/blob/main/images/dnmks2-1.png" width="400" height="300">
-![](https://github.com/mabrur-bing/mabrur.github.io/blob/main/images/dnmks2-1.png)
 
 # [Equilibrium And Non-equilibrium Monte Carlo to Simulate Super-Ionic Conductors](https://github.com/mabrur-bing/Li-ion-Hopping)
 How is the ionic conductivity of a solid-state electrolyte material affected by its thermal properties? To answer this, we apply Markov Chain Monte Carlo (MHMC) for thermal sampling and Kinetic Monte Carlo (KMC) for stochastic sampling of ion conduction dynamics.
