@@ -7,7 +7,7 @@ My projects in Computational Physics and Machine Learning
   - quantum simulation data (ground state and dynamics)
   - feature learning and phases identification
   - multidimensional scaling
-![] (https://github.com/mabrur-bing/mabrur.github.io/blob/main/images/dnmks2.pdf)
+![] (https://github.com/mabrur-bing/mabrur.github.io/blob/main/images/dnmks2-1.png)
 
 # [Equilibrium And Non-equilibrium Monte Carlo to Simulate Super-Ionic Conductors](https://github.com/mabrur-bing/Li-ion-Hopping)
 How is the ionic conductivity of a solid-state electrolyte material affected by its thermal properties? To answer this, we apply Markov Chain Monte Carlo (MHMC) for thermal sampling and Kinetic Monte Carlo (KMC) for stochastic sampling of ion conduction dynamics.
