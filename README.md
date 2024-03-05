@@ -7,7 +7,7 @@ Classical shadows are approximate descriptions of quantum states obtained by few
   - feature learning and phases identification
   - Multidimensional Scaling
 <div align="right">
-  <img src=""https://github.com/mabrur-bing/Mabrur_Portfolio/blob/main/images/dnmks2-1.png?raw=true" width="300" height="240"">
+  <img src="https://github.com/mabrur-bing/Mabrur_Portfolio/blob/main/images/dnmks2-1.png?raw=true" width="300" height="240">
 </div>
 
 # [Equilibrium And Non-equilibrium Monte Carlo to Simulate Super-Ionic Conductors](https://github.com/mabrur-bing/Li-ion-Hopping)
