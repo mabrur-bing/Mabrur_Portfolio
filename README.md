@@ -16,5 +16,5 @@ How is the ionic conductivity of a solid-state electrolyte material affected by 
 # [Quantum Dynamics of Strongly Correlated Spin System with Qiskit](https://github.com/mabrur-bing/quantum-dynamics)
 We demonstrate how to do quantum dynamics simulation for Transverse Field Ising Model (TFIM) using Qiskit.
 
-<img src="https://github.com/mabrur-bing/Mabrur_Portfolio/blob/main/images/download.png?raw=true" width="300" height="240">
+<img src="https://github.com/mabrur-bing/Mabrur_Portfolio/blob/main/images/download.png?raw=true" width="240" height="240">
   
