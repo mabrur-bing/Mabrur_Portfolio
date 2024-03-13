@@ -1,9 +1,9 @@
 # Site settings
-title: My Projects
+title: Mabrur's Portfolio
 author:
   name: Mabrur Ahmed
   email: mabrura334@gmail.com
-description: "My Projects in Computational Physics"
+#description: "My Projects in Computational Physics"
 
 # Build settings
 remote_theme: jekyll/minima
